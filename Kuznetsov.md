@@ -1,7 +1,7 @@
 # Lala
 ## lalala
-1. lalalal
-2. lalalalala
-3. lalalal
+- lalalal
+- lalalalala
+- lalalal
 4. lalalalala
 5. ssdfsdfsdf
